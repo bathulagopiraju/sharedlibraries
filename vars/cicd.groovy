@@ -1,4 +1,4 @@
-def newGit(repo)
+def newGit(myrepo)
 {
-   "git 'http://github.com/bathulagopiraju/$(repo).git"
+   "git http://github.com/bathulagopiraju/$(myrepo).git"
 }
